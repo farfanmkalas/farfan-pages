@@ -1,0 +1,50 @@
+.alt-header{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    
+}
+.alt-header_title{
+    font-size: 32px;
+    font-weight: 600;
+    
+}
+.main-screen{
+    padding: 40px 20px;
+   
+}
+.setings_setting{
+    align-items: center;
+    margin: 30px 20px;
+
+}
+.setings_setting i{
+    align-items: center;
+    display: block;
+}
+.setings_setting i{
+    font-size:34px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.setting-list{
+    display: flex;
+}
+.setings_setting span{
+    text-align: center;
+}
+.version{
+    display: flex;
+   justify-content: flex-end;
+    align-items: center;
+    font-size: 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    padding: 10px 20px;
+    opacity: 0.6;
+    
+}
+.latest{
+    margin: 40px 0px ;
+}
+

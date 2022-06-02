@@ -1,0 +1,83 @@
+
+.frieds-hood-text_img{
+    height: 80px;
+    width: 80px;
+}
+.friends-hood-text_title{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.friends-hood-3{
+    opacity: 0.5;
+    margin-left: 10px;
+}
+.friends-hood6{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.notification{
+    height: 15px;
+    width: 15px;
+    background-color: tomato;
+    border-radius: 50%;
+}
+.friends-ends span :first-child{
+    margin-left: 2px;
+}
+.time{
+    margin-left: 1500px;   
+}
+.notification10{
+    margin-left: 1503px;
+    margin-top: 5px;
+    background-color: tomato;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.one{
+   bottom: -5;
+}
+
+
+
+
+
+
+
+.friends-hood-text1{
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    
+}
+.frieds-hood-text_img1{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-top: 19px;
+}
+.friends-hood-text_title1{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.friends-hood-text2{
+    display: flex;
+    align-items: center;
+    padding: 10px 15px; 
+}
+.frieds-hood-text_img2{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-top: 19px;
+}
+.friends-hood-text_title2{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+

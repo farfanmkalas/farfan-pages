@@ -1,0 +1,68 @@
+.title-service{
+    padding: 10px 10px;
+    font-size: 25px;
+    font-weight: 600px;
+    opacity: inherit;
+
+}
+
+
+
+
+.find-icon_column{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 10px;
+  
+}
+.find-icon_column i{
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.find-icon_column  :last-child{
+    padding: 0px 5px;
+    align-items: center;
+
+}
+.cartoon{
+    display: flex;
+    align-items: center;
+    width: 70%;
+    border-bottom: 1px solid rgba(104, 101, 101, 0);
+    
+}
+.cartoon-img_photo{
+    height: 80px;
+    width: 80px;
+    border-radius: 30px;
+    padding: 20px 20px;
+}
+.phone-number{
+    margin-left: 5px;
+}
+.info-circle_icon{
+    margin-left: 5px;
+    color: tomato;
+}
+.bell{
+    margin-left: 10px;
+    opacity: 0.5;
+}
+.Comments{
+    padding: 20px 10px;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: cursive;
+}
+.coco{
+    display: flex;
+    align-items: center;
+    width: 30%;
+}
+.coco-image{
+    height: 90px;
+    width: 90px;
+    border-radius: 30px;
+    padding: 5px 10px;
+}

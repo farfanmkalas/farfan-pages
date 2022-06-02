@@ -1,0 +1,101 @@
+#friends-display-link{
+    text-align: center;
+    display: block;
+
+    padding: 15px 0px;   
+}
+#friends-display-link i{
+    color: rgba(0,0,0,0.3);
+}
+
+.friends-hood-text{
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    border-top: 1px solid rgba(0,0,0,0.1);
+    
+    
+}
+.frieds-hood-text_img{
+    height: 80px;
+    width: 80px;
+}
+.friends-hood-text_title{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.friends-hood-3{
+    opacity: 0.5;
+}
+.notification{
+    height: 15px;
+    width: 15px;
+    background-color: tomato;
+    border-radius: 50%;
+}
+.friends-ends span :first-child{
+    margin-left: 2px;
+}
+
+
+
+
+
+
+
+.friends-hood-text1{
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    
+}
+.frieds-hood-text_img1{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-top: 19px;
+}
+.friends-hood-text_title1{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.friends-hood-text2{
+    display: flex;
+    align-items: center;
+    padding: 10px 15px; 
+}
+.frieds-hood-text_img2{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-top: 19px;
+}
+.friends-hood-text_title2{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+@keyframes hidesfresh-screen{
+    from{
+        opacity: 1;
+    }
+    to{
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+#fresh-screen{
+    background-color: goldenrod;
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    font-size: 75px;
+    animation: hidesfresh-screen 0.2s ease-in-out forwards;
+    animation-delay: 2s;
+}
